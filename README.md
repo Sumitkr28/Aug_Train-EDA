@@ -1,2 +1,2 @@
 # Aug_Train-EDA
-Exploratory Data Analysis (EDA) on the Aug_train dataset involves examining demographic, categorical, and textual features to understand patterns affecting the target variable.
+Exploratory Data Analysis (EDA) on the Aug_train dataset involves examining demographic, categorical, and textual features to understand patterns affecting the target variable. The analysis includes handling missing values, studying distributions of categorical columns, detecting class imbalance, and exploring relationships between features such as education, experience, gender, and company details with the target outcome. Visualizations like bar plots, count plots, and heatmaps help uncover key trends.
